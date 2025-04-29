@@ -4,6 +4,10 @@
 
 A responsive web dashboard for tracking and managing AI safety incidents. This application allows users to report, filter, sort, and view details of AI-related safety incidents.
 
+## Live Link
+
+https://abhishek12221732.github.io/ai-safety-dashboard/
+
 ## Features
 
 - View incidents with severity levels (Low, Medium, High)
